@@ -1,0 +1,47 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #fbe8f0;
+  color: #222;
+  text-align: center;
+  padding: 100px 20px;
+}
+
+h1 {
+  font-size: 36px;
+  color: #b30059;
+}
+
+#lyric {
+  font-size: 24px;
+  margin: 30px 0;
+  padding: 0 20px;
+}
+
+.buttons {
+  margin: 20px 0;
+}
+
+button {
+  font-size: 18px;
+  padding: 12px 24px;
+  margin: 10px;
+  border: none;
+  background-color: #ff4da6;
+  color: white;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #e60073;
+}
+
+#result {
+  font-size: 20px;
+  margin: 20px 0;
+}
+
+#score {
+  font-weight: bold;
+  margin-top: 20px;
+}
