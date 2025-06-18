@@ -53,25 +53,6 @@ To support continued development, the following feature improvements are planned
 
 The project will be deployed through GitHub Pages, providing a publicly accessible and shareable interface for educational and entertainment purposes. The static frontend structure of the project allows for seamless deployment without backend dependencies.
 
-## Project Structure
-
-The current directory structure is as follows:
-who-said-it/
-├── index.html
-├── styles/
-│   └── styles.css
-├── scripts/
-│   └── script.js
-├── data/
-│   ├── lyrics_taylor_only.json
-│   ├── lyrics_ai_only.json
-│   ├── track_data.json
-│   └── taylor-swift-lyric-database.json
-├── utils/
-│   └── convert_lyrics.py
-├── README.md
-This organization reflects a clear separation of concerns and supports modular updates as features are added or datasets are extended.
-
 ## Acknowledgements
 
 Taylor Swift’s lyrical work provides the artistic foundation and inspiration for this project. The AI-generated content used here is produced solely for educational and experimental purposes. OpenAI’s GPT models were utilized for generating stylistically imitative lyrics under non-commercial use.
